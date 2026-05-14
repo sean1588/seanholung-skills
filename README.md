@@ -1,6 +1,6 @@
 # seanholung-skills
 
-This repo houses skills and config I use with Claude Code.
+This repo houses skills and config I use with Claude Code. Many of these are influenced by my personal philopsphy with regards to software engineering. It is admittedly highly opinionated, even a bit controversial, but reflects my core values.
 
 
 # Engineering Philosophy
